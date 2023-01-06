@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @guv-slime
 - 👀 I’m interested in ...Digital Art
 - 🌱 I’m currently learning ...Web Development
-- 💞️ I’m looking to collaborate on ...Videos
 - 📫 How to reach me ...@emoryisahare
 
 <!---
